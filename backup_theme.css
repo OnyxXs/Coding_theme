@@ -1,9 +1,10 @@
 /**
  * @name            Coding_theme
  * @description     For Coding Factory students. Easy on the eyes.
- * @authors         OnyxX , psykokwak , Scorpioffi
+ * @authors         OnyxX , psykokwak , Scorpioffi , Stanewolfer
  * @version         1.0
  * @source          https://github.com/OnyxXs/Coding_theme/blob/main/Theme.css
+ * @information		adaptation of SoftX theme for a better integration in the coding factory environnement
  */
 
 /* Google Fonts */
@@ -17,14 +18,14 @@
 
 :root {
 	/* SoftX variables */
-	--background-image: url('https://i0.wp.com/codingfactory.fr/wp-content/uploads/2022/02/logo-coding-couleur-png.png?fit=2174%2C1123&ssl=1'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+	--background-image: url('https://static.vecteezy.com/ti/vecteur-libre/p1/1229536-design-degrade-violet-rose-avec-panneau-geometrique-gratuit-vectoriel.jpg'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
 	--background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
 
-	--accent: 239, 232, 28; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
+	--accent: 160, 15, 250; /* Colour used around the app. | Values are in R,G,B format. | Default: 195, 15, 250 */
 
-	--channels-width: 300px; /* Width of the channels list. | Default: 300px */
-	--guilds-width: 105px; /* Width of the server list. | Default: 105px */
-	--members-width: 280px; /* Width of the members list. | Default: 280px */
+	--channels-width: 280px; /* Width of the channels list. | Default: 280px */
+	--guilds-width: 90px; /* Width of the server list. | Default: 90px */
+	--members-width: 300px; /* Width of the members list. | Default: 300px */
 
 	--server-size: 50px; /* Size of the servers inside the server list. | Default: 50px */
 	--chat-avatar-size: 32px; /* Size of the chat avatars. | Default: 32px */
