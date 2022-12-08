@@ -20,7 +20,7 @@
 	--background-image: url('https://i0.wp.com/codingfactory.fr/wp-content/uploads/2022/02/logo-coding-couleur-png.png?fit=2174%2C1123&ssl=1'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
 	--background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
 
-	--accent: 0, 231, 169; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
+	--accent: 239, 232, 28; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
 
 	--channels-width: 300px; /* Width of the channels list. | Default: 300px */
 	--guilds-width: 105px; /* Width of the server list. | Default: 105px */
